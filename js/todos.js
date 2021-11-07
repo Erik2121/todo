@@ -161,7 +161,7 @@ function renderTodos(items)
         }
         else{
             todoList.innerHTML="";
-         emptyId.style.display="block";
+            emptyId.style.display="block";
         }
 
      }
